@@ -19,7 +19,7 @@ $ composer require punches/email-checker
 
 ```sh
 $ cd test
-$ less test-list.txt | php index.php
+$ less test-list.txt | php check_stdin.php
 ```
 
 ### Usage
